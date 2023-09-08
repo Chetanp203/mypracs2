@@ -1,0 +1,26 @@
+.reg-con{
+    width: 100%;
+    padding: 10px;
+}
+
+.registration input{
+    margin: 5px;
+    width: 90%;
+    height: 30px;
+    outline: none;
+}
+
+.register{
+    width: 30%;
+    margin: auto;
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 10px;
+}
+
+.reg-btn{
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: medium;
+}
